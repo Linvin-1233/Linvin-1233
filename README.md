@@ -15,4 +15,4 @@ A simple amateur developer, currently still a student.
 The most commonly used frameworks are Vue and Next.js, and the languages ​​are JavaScript, TypeScript, and Python.  
 No skills about Java
 
-> ~~If you see that I haven't touched a project in a long time, it means I've definitely lazy on it again.~~
+> ~~If a project hasn't been updated in a while, I'm probably just being lazy again.~~
